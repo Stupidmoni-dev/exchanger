@@ -1,9 +1,9 @@
-BOT_TOKEN = '5659616901:AAFGndl7BOLNa1uv1WlELqgGoPt8m7uG'
-ADMIN_ID = [5938021235] #айдишник администратора
-ANKET_SEND = [5938021235] #айдишник, куда будут отсылаться заявки на обмен
-SUPPORT_LINK = 'https://t.me/multi_coder' #ссылка на саппорта
-LINK_SUBSRIBE = 'https://t.me/multi_coder'
+BOT_TOKEN = '7918290923:AAHN5kn6bSncJH87ve27nIb6tRTTuTPxrLo'
+ADMIN_ID = [6216175814] #айдишник администратора
+ANKET_SEND = [6216175814] #айдишник, куда будут отсылаться заявки на обмен
+SUPPORT_LINK = 'https://t.me/Stupidmoni' #ссылка на саппорта
+LINK_SUBSRIBE = 'https://t.me/Aethonbot?start=7761684048'
 #faq должно быть не больше 4000 символов!
 FAQ = F'''
 Часто задаваемые вопросы:
-Разработчики: https://t.me/weaseldev @weaseldev'''
+Разработчики: https://t.me/Stupidmoni @stupidmoni'''
